@@ -10,6 +10,8 @@ Description: Use 'setTimeOut' and 'setInterval' like javascript
 
 Example: 'SpTimer.setTimeOut(this, &RRDAT::saveHRVimages, 6000);'Execute the function after 6 seconds
 
+Git address: https://github.com/jedi007/SuperTimer
+
 **************************************************/
 
 #include <QObject>
